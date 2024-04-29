@@ -68,12 +68,12 @@ img{
     }
 
     .choice{
-        width: 90px;
+        width: 80px;
     }
 
     img {
-        height: 115px;
-        width: 115px;
+        height: 105px;
+        width: 105px;
     }
 
     .score-board {
@@ -81,7 +81,7 @@ img{
         margin-top: 3rem;
     }
     #msg{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 
     .msg-container{
